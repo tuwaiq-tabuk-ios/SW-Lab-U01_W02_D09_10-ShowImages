@@ -16,7 +16,7 @@ Third App that shows large images
 2. In ShowImages the user after pressing a series of small images, these are displayed large. Information about the image such as its name or size is also displayed.
 
 ## DeadLine 
-Friday 14th October 3:00 pm
+Thursday 14th October 3:00 pm
 # screen.
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-10-14 at 14 13 29](https://user-images.githubusercontent.com/91871990/137307020-d988c7e3-25e8-423c-a5ea-b6d053e46409.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-10-14 at 14 13 36](https://user-images.githubusercontent.com/91871990/137307254-14f92015-db5b-41dc-b090-af9c2a5ba296.png)
