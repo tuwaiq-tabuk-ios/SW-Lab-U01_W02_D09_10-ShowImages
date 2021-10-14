@@ -17,3 +17,9 @@ Third App that shows large images
 
 ## DeadLine 
 Friday 14th October 3:00 pm
+
+![alt text](/Users/mahas/Desktop/Screen Shot 2021-10-14 at 2.26.47 PM.png)
+
+![alt text](/Users/mahas/Desktop/Screen Shot 2021-10-14 at 2.26.58 PM.png|)
+
+![alt text](/Users/mahas/Desktop/Screen Shot 2021-10-14 at 2.27.12 PM.png)
