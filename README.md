@@ -17,3 +17,13 @@ Third App that shows large images
 
 ## DeadLine 
 Friday 14th October 3:00 pm
+
+![alt text](/Users/mahas/Desktop/Screen Shot 2021-10-14 at 2.26.47 PM.png)
+
+![alt text](/Users/mahas/Desktop/Screen Shot 2021-10-14 at 2.26.58 PM.png|)
+
+![alt text](/Users/mahas/Desktop/Screen Shot 2021-10-14 at 2.27.12 PM.png)
+<img width="353" alt="Screen Shot 2021-10-14 at 2 26 47 PM" src="https://user-images.githubusercontent.com/91871416/137312472-b8e3df28-4058-4973-92c6-513ca4604e5c.png">
+<img width="353" alt="Screen Shot 2021-10-14 at 2 26 58 PM" src="https://user-images.githubusercontent.com/91871416/137312492-90c5ea4d-ab60-43db-960c-efa5186828a8.png"><img width="353" alt="Screen Shot 2021-10-14 at 2 50 21 PM" src="https://user-images.githubusercontent.com/91871416/137312525-e4a0c6a8-cae3-4433-96c5-fc4c3ef2b0f9.png">
+
+<img width="353" alt="Screen Shot 2021-10-14 at 2 27 12 PM" src="https://user-images.githubusercontent.com/91871416/137312511-8754da58-2d4c-4b43-ae57-418533e33fbd.png">
