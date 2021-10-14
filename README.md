@@ -1,6 +1,17 @@
 # SW-Lab-U01_W02_D09_10-ShowImages
 Third App that shows large images 
 
+
+## Demo
+https://github.com/MarzouqAlmukhlif/SW-Lab-U01_W02_D09_10-ShowImages/raw/main/video/1.mp4
+
+## Screenshot
+<div>
+<img src="https://github.com/MarzouqAlmukhlif/SW-Lab-U01_W02_D09_10-ShowImages/raw/main/image/1.png" width="150" height="250" />
+<img src="https://github.com/MarzouqAlmukhlif/SW-Lab-U01_W02_D09_10-ShowImages/raw/main/image/2.png" width="150" height="250" />
+<img src="https://github.com/MarzouqAlmukhlif/SW-Lab-U01_W02_D09_10-ShowImages/raw/main/image/3.png" width="150" height="250" />
+</div>
+
 ## Topics
 1. Auto Layout
 2. Horizontal and Vertical Stack Views
