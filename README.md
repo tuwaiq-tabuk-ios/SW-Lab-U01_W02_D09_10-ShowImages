@@ -17,3 +17,4 @@ Third App that shows large images
 
 ## DeadLine 
 Friday 14th October 3:00 pm
+![Simulator Screen Shot - iPhone 12 - 2021-10-14 at 14 35 02](https://user-images.githubusercontent.com/91871608/137312590-7907e814-c69d-4703-9c78-5955c2654ebc.png)
