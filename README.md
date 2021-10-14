@@ -3,7 +3,8 @@ Third App that shows large images
 
 
 ## Demo
-https://github.com/MarzouqAlmukhlif/SW-Lab-U01_W02_D09_10-ShowImages/raw/main/video/1.mp4
+<img src="https://github.com/MarzouqAlmukhlif/SW-Lab-U01_W02_D09_10-ShowImages/raw/main/image/4.gif" width="150" height="250" />
+
 
 ## Screenshot
 <div>
