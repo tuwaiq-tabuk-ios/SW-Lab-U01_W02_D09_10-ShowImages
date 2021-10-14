@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CA38B362271830830064A29C /* Test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CA38B362271830830064A29C /* ShowImages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShowImages.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA38B365271830830064A29C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA38B367271830830064A29C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CA38B369271830830064A29C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		CA38B363271830830064A29C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CA38B362271830830064A29C /* Test2.app */,
+				CA38B362271830830064A29C /* ShowImages.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CA38B361271830830064A29C /* Test2 */ = {
+		CA38B361271830830064A29C /* ShowImages */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CA38B376271830840064A29C /* Build configuration list for PBXNativeTarget "Test2" */;
+			buildConfigurationList = CA38B376271830840064A29C /* Build configuration list for PBXNativeTarget "ShowImages" */;
 			buildPhases = (
 				CA38B35E271830830064A29C /* Sources */,
 				CA38B35F271830830064A29C /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Test2;
+			name = ShowImages;
 			productName = Test2;
-			productReference = CA38B362271830830064A29C /* Test2.app */;
+			productReference = CA38B362271830830064A29C /* ShowImages.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CA38B361271830830064A29C /* Test2 */,
+				CA38B361271830830064A29C /* ShowImages */,
 			);
 		};
 /* End PBXProject section */
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CA38B376271830840064A29C /* Build configuration list for PBXNativeTarget "Test2" */ = {
+		CA38B376271830840064A29C /* Build configuration list for PBXNativeTarget "ShowImages" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CA38B377271830840064A29C /* Debug */,
