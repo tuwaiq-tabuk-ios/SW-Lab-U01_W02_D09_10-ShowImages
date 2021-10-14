@@ -13,7 +13,8 @@ Third App that shows large images
 
 ## Description
 1. Create the third Bootcamp App. 
-2. In ShowImages the user after pressing a series of small images, these are displayed large. Information about the image such as its name or size is also displayed.
+2. In ShowImages the user after pressing a series of small images, these are displayed large. Information about the image such as ![Simulator Screen Shot - iPhone 12 - 2021-10-14 at 14 35 14](https://user-images.githubusercontent.com/91871708/137313709-f81cd74f-43c0-4a48-a3af-002ad5578f75.png)
+its name or size is also displayed.
 
 ## DeadLine 
 Friday 14th October 3:00 pm
