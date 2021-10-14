@@ -16,4 +16,4 @@ Third App that shows large images
 2. In ShowImages the user after pressing a series of small images, these are displayed large. Information about the image such as its name or size is also displayed.
 
 ## DeadLine 
-Friday 14th October 3:00 pm
+Thursday 14th October 3:00 pm
