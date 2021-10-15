@@ -28,6 +28,7 @@ Friday 14th October 3:00 pm
 
 ![Simulator Screen Shot - iPhone 12 - 2021-10-14 at 14 36 49](https://user-images.githubusercontent.com/90204829/137313144-83fc2f28-8e1d-4c3b-89a4-62c77d465662.png)
 
-
-
 ![Simulator Screen Shot - iPhone 12 - 2021-10-14 at 14 36 54](https://user-images.githubusercontent.com/90204829/137313525-50faf617-af74-45f9-93b5-7906570e9220.png)
+
+<img width="359" alt="Screen Shot 1443-03-08 at 2 58 57 PM" src="https://user-images.githubusercontent.com/90204829/137520916-1813dac6-1c94-4098-9da3-a18b1a610234.png">
+
