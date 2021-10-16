@@ -26,6 +26,3 @@ https://user-images.githubusercontent.com/88169750/137589557-ddc733fc-5532-49f6-
 
 ## DeadLine 
 Friday 14th October 3:00 pm
-
-
-
