@@ -15,19 +15,5 @@ Third App that shows large images
 1. Create the third Bootcamp App. 
 2. In ShowImages the user after pressing a series of small images, these are displayed large. Information about the image such as its name or size is also displayed.
 
-
-## screen Record 
-
-https://user-images.githubusercontent.com/91871715/137312693-341a8842-2282-4972-9b64-9880bc6a9765.mp4
-
-
-## screen Record 2  
-
-https://user-images.githubusercontent.com/91871715/137315810-0b320089-dc65-4767-bb51-ed79cc7f4e40.mp4
-
-
-
-
-
 ## DeadLine 
 Friday 14th October 3:00 pm
